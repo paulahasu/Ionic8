@@ -7,7 +7,7 @@ import { Filme } from '../../modelo/filme';
 /*
   
 /**
- * Nome: Claudemir Cardoso RA:816155452
+ * Nome: Paula Akemi RA:817126817
  *
 */
 @Injectable()
