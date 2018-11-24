@@ -3,7 +3,7 @@ import { Injectable } from '@angular/core';
 
 /*
  
- * Nome: Claudemir Cardoso RA:816155452
+ * Nome: Paula Akemi RA:817126817
  *
 */
 @Injectable()
